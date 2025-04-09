@@ -51,4 +51,7 @@ This dashboard effectively summarizes multi-dimensional sales data from 2011 to 
 •	The gap between current and target sales
 The dashboard supports decision-making by offering actionable insights into sales trends and distribution patterns.
 
-Dashboard: 
+Dashboard: https://github.com/yogesh8536/Sales-Dashboard/blob/main/Sales%20Dashboard.pbix
+
+Image: https://github.com/yogesh8536/Sales-Dashboard/blob/main/Sales%20Dashboard%20Pg%201.JPG
+       https://github.com/yogesh8536/Sales-Dashboard/blob/main/Sales%20Dashboard%20Pg%202.JPG
